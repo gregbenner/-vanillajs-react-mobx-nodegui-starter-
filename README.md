@@ -1,5 +1,7 @@
 # react-nodegui-starter
 
+A quick clone and hack to remove typescript and add mobx mostly for personal use
+
 **Clone and run for a quick way to see React NodeGui in action.**
 
 <img alt="logo" src="https://github.com/nodegui/react-nodegui-starter/raw/master/assets/demo.png" height="500" />
