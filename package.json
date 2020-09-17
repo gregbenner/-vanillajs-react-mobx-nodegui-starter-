@@ -1,8 +1,8 @@
 {
-  "name": "react-nodegui-starter",
+  "name": "vanillajs-react-mobx-nodegui-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Atul R <atulanand94@gmail.com>",
+  "author": "Greg Benner",
   "license": "MIT",
   "private": true,
   "scripts": {
